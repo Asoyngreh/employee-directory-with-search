@@ -64,7 +64,7 @@ employee-directory/
 
 **Asothi.s**  
 📧 Email:[asothirenuka@gmail.com]  
-🌐 GitHub: [Asoyngreh/employee-directory-with-search](https://github.com/Asoyngreh/employee-directory-with-search.git)
+🌐 GitHub: (https://github.com/Asoyngreh/employee-directory-with-search.git)
 
 ---
 
